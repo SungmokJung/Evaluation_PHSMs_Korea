@@ -1,4 +1,4 @@
-# Evaluating the effect of public health and social measures with the time-varying basic reproduction number
+# Evaluating the effect of PHSMs with the time-varying basic reproduction number
 
 Underlying code for Jung et al. "Evaluating the effect of public health and social measures under rapid changes in population-level immunity: a mathematical modeling study"
 
